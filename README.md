@@ -1,6 +1,6 @@
 ## Hewlett Packard Enterprise Software Engineering Job Simulation
 **HewlettPackard-Enterprise_SoftwareEngineer:** <br>
-I completed the Hewlett Packard Enterprise Software Engineering job simulation on Forage, where I developed a RESTful web service using Java Spring Boot to manage employee data. I built a web server, handled HTTP requests, and implemented unit tests using JUnit and Mockito. This experience strengthened my back-end development skills.
+I completed the Hewlett Packard Enterprise Software Engineering job simulation on Forage, where I developed a RESTful web service using Java Spring Boot to manage employee data. I built a web server, handled HTTP requests, and implemented unit tests using JUnit and Mockito. This experience strengthened my back-end development skills..
 
 **Repository Overview:**  
 This repository documents my experience in the **Hewlett Packard Enterprise Software Engineering Virtual Experience** on the Forage platform. The simulation allowed me to take on the role of a **back-end engineer** where I was tasked with developing a **RESTful web service** to manage employee data using **Java Spring Boot** and **JUnit** for unit testing. This simulation gave me valuable hands-on experience in building, testing, and optimizing a web server application in a real-world context.
